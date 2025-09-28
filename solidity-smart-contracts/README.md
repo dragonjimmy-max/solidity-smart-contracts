@@ -5,3 +5,4 @@ This folder contains simple, self-contained Solidity examples you can compile on
 - `SimpleVoting.sol` – Basic on-chain voting
 
 Open [Remix IDE](https://remix.ethereum.org), create files with the same names, paste code, compile, and deploy.
+1
